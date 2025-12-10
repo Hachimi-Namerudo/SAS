@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/questions">
+        <file>Zung-Anx.txt</file>
+    </qresource>
+</RCC>
